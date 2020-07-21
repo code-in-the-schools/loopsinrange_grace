@@ -1,8 +1,9 @@
-for i in range(0,10):
-  print(i) 
+#define variables
+leftB = "[!"
+rightB = "!]"
+name = "grace"
+inner = "-"
 
-for i in range(5,30):
-  print(i) 
+for inner in range(1,10):
+  print (inner)
 
-for i in range(10,20):
-  print(i) 
